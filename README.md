@@ -1,6 +1,6 @@
 # Jogo do Pong
 
-Rápida descrição do objetivo de fazer esse projeto
+Com o objetivo de dar os primeiros passos na programação, criei o Jogo do Pong usando a linguagem JavaScript usando a biblioteca P5JS.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
