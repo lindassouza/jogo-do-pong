@@ -10,4 +10,4 @@ Com o objetivo de dar os primeiros passos na programação, criei o Jogo do Pong
 | :fire: Desafio     | O meu maior desafio foi o entendimento do uso das funções e suas chamadas
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-<img alt="Imagem do Jogo do Pong desenvolvido com JavaScript" src="https://github.com/linda-brandao/jogoDoPong/assets/92096252/880d7eed-6e60-4b99-b15c-06645da45bff">
+<img alt="Imagem do Jogo do Pong desenvolvido com JavaScript" src="https://github.com/linda-brandao/jogoDoPong/assets/92096252/880d7eed-6e60-4b99-b15c-06645da45bff#vitrinedev">
